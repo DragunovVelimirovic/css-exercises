@@ -1,5 +1,22 @@
-/* 2nd exercise, Feb 11, 2022 */
+/* 2nd exercise; class and id practice. Feb 11, 2022 */
 
-p {
-	color: rgb(255, 214, 229);
+.pink {
+	background-color: rgb(255, 214, 229);
+	font-family: Verdana, DejaVu, sans-serif;
+	
+}
+
+#big {
+	color: rgb(40, 166, 235);
+	font-size: 36px;
+}
+
+.cool-class {
+	font-size: 24px;
+}
+
+#green {
+	background-color: rgb(112, 250, 158);
+	font-size: 24px;
+	font-weight: bold;
 }
