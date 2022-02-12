@@ -1,0 +1,16 @@
+/* Third exercises, grouping. Feb 12, 2022 */
+
+.first {
+	background-color: black;
+	color: white;
+}
+
+.second {
+	background-color: yellow;
+}
+
+.first .second {
+	font-size: 28px;
+	font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
