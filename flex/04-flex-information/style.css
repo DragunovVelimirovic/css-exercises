@@ -1,5 +1,8 @@
+/* I think I'm starting to get the hang of this. A lot of info at once though. Feb 15, 2022 */
+
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -10,6 +13,17 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin: 32px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	gap: 52px;
+}
+
+.info {
+	max-width: 200px;
 }
 
 /* do not edit this footer */
